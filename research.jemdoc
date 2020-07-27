@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+== Research
+
+== Overview
+
+The ultimate goal of my research is to construct a framework for active sensing of marine environment using mobile sensor network.
+
+The two fundamental reserach questions are (1) how to ensure that the underwater robots operation operates safely and efficiently in a dynamic marine environment with high uncertainty, and (2) how to derive optimal estimation of the marine environment from different data sources.
+
+
+
+== Project
+- 2016 ~ Underwater vehicle path planning in dynamic flow fields 
+
+- 2016 ~ Software development for underwater glider field experiments in Cape Hatteras, NC and Gray’s Reef, Georgia
+
+- 2018 ~ Data driven flow field computational model
+
+- 2018 ~ Modelling interaction between human and indoor autonomous blimps
+
+- 2019 ~ Flow field parameter identification using adaptive control
